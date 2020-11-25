@@ -19,7 +19,7 @@ a {
 
 a:hover {
   color: #6D676E;
-  text-decoration: none;
+  text-decoration: line-through;
 }
 
 .container {
