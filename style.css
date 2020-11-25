@@ -37,15 +37,13 @@ a:hover {
   }
   #banner {
     line-height: 320px;
+    font-size: 104px;
   }
 }
 @media (max-width: 720px) {
   /* For a screen < 720px, this CSS will be read */
   .container {
     width: 500px;
-  }
-   #banner {
-    font-size: 104px;
   }
 }
 @media (max-width: 540px) {
