@@ -36,13 +36,13 @@ a:hover {
   }
 }
 
-@media (max-width: 1056.5px) {
+@media (max-width: 1056px) {
   #banner {
     font-size: 104px;
   }
 }
 
-@media (max-width: 920.5px) {
+@media (max-width: 920px) {
   #banner {
     font-size: 112px;
     line-height: 200px;
