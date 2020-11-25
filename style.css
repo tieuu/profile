@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #DD4E0C;
+  color: black;
+  text-decoration: line-through;
 }
 
 a:hover {
   color: #6D676E;
-  text-decoration: line-through;
 }
 
 .container {
